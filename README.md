@@ -1,4 +1,5 @@
-### Hello! My name is Khachenchai Jaikla {nickname: 'Anda'}.  👋
+## Hello! My name is Khachenchai Jaikla {nickname: 'Anda'}.
+### Welcome to my Github!!!
 
 Contact :
 <div id="badges">
