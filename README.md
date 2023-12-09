@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello! My name is <a href="https://github.com/khachenchai">Khachenchai Jaikla { nickname: 'Anda' }</a></h2>
+  <h1>Hello! My name is <a href="https://github.com/khachenchai">Khachenchai Jaikla { nickname: 'Anda' }</a></h1>
   <h3>Welcome to my Github!!!</h3>
   <img src="https://komarev.com/ghpvc/?username=khachenchai&style=flat-square&color=green" alt=""/>
   <hr>
