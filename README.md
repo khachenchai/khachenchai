@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello! My name is Khachenchai Jaikla {nickname: 'Anda'}.  👋
 
-<!--
-**khachenchai/khachenchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact :
+<div id="badges">
+  <a href="https://www.facebook.com/profile.php?id=100023858480896">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="40px">
+  </a>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
